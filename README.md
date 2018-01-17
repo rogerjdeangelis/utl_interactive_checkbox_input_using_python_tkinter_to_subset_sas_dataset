@@ -8,7 +8,8 @@ Interactive checkbox input using Python Tkinter to subset SAS dataset. Keywords:
     If you click on the Female checkbox then SAS will print
     the female students in table sashelp.class.
 
-
+    Tkinter returns a SAS macro variable &sex selected using the interactive checkbox
+    
     HAVE sashelp.class dataset
     ==========================
 
